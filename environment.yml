@@ -1,0 +1,24 @@
+name: na_spring_2018
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+  - python=3
+  - jupyter
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - cython
+  - graphviz
+  - python-graphviz
+  - networkx
+  - requests
+  - pydot
+  - pycairo
+  - nxviz
+  - pip:
+    - tweepy
+    - pydotplus
+    - mesa
