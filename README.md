@@ -15,7 +15,7 @@ Clone this respository to your machine using either of the following options:
 * Run `git clone https://github.com/napsternxg/NetworkAnalysis_Spring2018.git`
 
 ### Using zip files
-* Download the latest zipfile of the source code from https://github.com/napsternxg/NetworkAnalysis_Spring2018/archive/master.zip
+* Download the latest zipfile of the source code from https://github.com/napsternxg/Network-Analysis-Spring-2018/archive/master.zip
 * Unzip the files to a directory
 
 
