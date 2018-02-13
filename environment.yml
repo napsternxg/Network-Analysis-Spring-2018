@@ -18,6 +18,7 @@ dependencies:
   - pydot
   - pycairo
   - nxviz
+  - xlrd
   - pip:
     - tweepy
     - pydotplus
