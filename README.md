@@ -1,8 +1,7 @@
 # Network Analysis Spring 2018
 Network Analysis course
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/napsternxg/Network-Analysis-Spring-2018)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/napsternxg/Network-Analysis-Spring-2018/master)
 ## Installation
 Install miniconda with python 3.6 from https://conda.io/miniconda.html
 Clone this respository to your machine using either of the following options:
