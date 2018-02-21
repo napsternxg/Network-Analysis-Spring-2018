@@ -19,6 +19,7 @@ dependencies:
   - pycairo
   - nxviz
   - xlrd
+  - scikit-learn
   - pip:
     - tweepy
     - pydotplus
